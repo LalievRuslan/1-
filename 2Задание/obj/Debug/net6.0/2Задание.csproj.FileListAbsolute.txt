@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\1Seminar\2Задание\bin\Debug\net6.0\2Задание.exe
+C:\Users\Руслан\Desktop\1Seminar\2Задание\bin\Debug\net6.0\2Задание.deps.json
+C:\Users\Руслан\Desktop\1Seminar\2Задание\bin\Debug\net6.0\2Задание.runtimeconfig.json
+C:\Users\Руслан\Desktop\1Seminar\2Задание\bin\Debug\net6.0\2Задание.dll
+C:\Users\Руслан\Desktop\1Seminar\2Задание\bin\Debug\net6.0\2Задание.pdb
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.dll
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\refint\2Задание.dll
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.pdb
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\2Задание.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\1Seminar\2Задание\obj\Debug\net6.0\ref\2Задание.dll
